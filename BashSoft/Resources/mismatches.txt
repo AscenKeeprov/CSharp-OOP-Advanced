@@ -1,0 +1,14 @@
+Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit, 
+■ Mismatch at line 3 ─ Expected: "sed do eiusmod tempor incididunt " <=> Actual: "sed do eiusmod tempor "
+■ Mismatch at line 4 ─ Expected: "ut labore et dolore magna aliqua. " <=> Actual: "incididunt ut labore et dolore magna aliqua. "
+Ut enim ad minim veniam, quis 
+nostrud exercitation ullamco 
+laboris nisi ut aliquip ex ea 
+■ Mismatch at line 8 ─ Expected: "commodo consequat. Duis aute " <=> Actual: "commodo consequat. Duis aute irure "
+■ Mismatch at line 9 ─ Expected: "irure dolor in reprehenderit in " <=> Actual: "dolor in reprehenderit in "
+■ Mismatch at line 10 ─ Expected: "voluptate velit esse cillum " <=> Actual: "voluptate velit esse cillum dolore "
+■ Mismatch at line 11 ─ Expected: "dolore eu fugiat nulla pariatur. " <=> Actual: "eu fugiat nulla pariatur. "
+Excepteur sint occaecat cupidatat 
+non proident, sunt in culpa qui 
+officia deserunt mollit anim id est laborum.
